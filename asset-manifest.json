@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/google-login-react/static/css/main.9e380adb.css",
+    "main.js": "/google-login-react/static/js/main.d1558b9b.js",
+    "static/js/453.9b0c45d5.chunk.js": "/google-login-react/static/js/453.9b0c45d5.chunk.js",
+    "index.html": "/google-login-react/index.html",
+    "main.9e380adb.css.map": "/google-login-react/static/css/main.9e380adb.css.map",
+    "main.d1558b9b.js.map": "/google-login-react/static/js/main.d1558b9b.js.map",
+    "453.9b0c45d5.chunk.js.map": "/google-login-react/static/js/453.9b0c45d5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9e380adb.css",
+    "static/js/main.d1558b9b.js"
+  ]
+}
